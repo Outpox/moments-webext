@@ -1,0 +1,11 @@
+{
+    "extensionDescription": {
+        "message": "Allow you to easily share Moments from Youtube"
+    },
+    "shareButtonText": {
+        "message": "Moments.yt"
+    },
+    "shareTooltipText": {
+      "message": "Share on Moments.yt"
+  }
+}
