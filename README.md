@@ -1,6 +1,6 @@
 ## Moments.yt web-extension  
 
-Allows you to easily share Moments on moments.yt straight from Youtube.  
+Allows you to easily share Moments on [Moments.yt](Moments.yt) straight from Youtube.  
   
 Wip, not yet available on the market places.  
   
